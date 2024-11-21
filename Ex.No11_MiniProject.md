@@ -325,4 +325,4 @@ pygame.quit()
 <img src="https://github.com/user-attachments/assets/6367ae92-601c-49fd-95f1-cf532bd18de2" width=50%>
 
 ### Result:
-Thus the simple  game was implemented using 
+Thus the simple  game was implemented using python as pygame.
