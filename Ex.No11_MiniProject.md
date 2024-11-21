@@ -1,4 +1,4 @@
-# Ex.No: 11  Mini Project - Ghosthunters
+# Ex.No: 11  Mini Project - Night Hunters
 ### DATE: 20-10-2024                                                                            
 ### REGISTER NUMBER : 212222230024
 ### AIM: 
