@@ -322,7 +322,7 @@ while running:
 pygame.quit()
 ```
 ### Output:
-<img src="https://github.com/user-attachments/assets/6367ae92-601c-49fd-95f1-cf532bd18de2" width=50%>
+<img src="https://github.com/user-attachments/assets/fae100dc-d812-40d8-9e2d-c406a535f921" width=50%>
 
 ### Result:
 Thus the simple  game was implemented using python as pygame.
